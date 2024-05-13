@@ -1,0 +1,21 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Einleitung}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Motivation und Bedeutung der Visualisierung von Unsicherheiten}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Ziel der Arbeit und Forschungsfragen}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Theoretische Grundlagen}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Grundlagen der Risikowahrnehmung}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Visualisierungstechniken und ihre psychologischen Effekte}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Einfluss von Visualisierungstechniken auf die Risikowahrnehmung}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Unterschiedliche Visualisierungstechniken und ihre Eigenschaften}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Studien zur Risikowahrnehmung in der Finanzanalyse}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Verbesserung der Kommunikation durch Visualisierungstechniken}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Kommunikation zwischen Finanzanalysten und Laieninvestoren}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Einsatz von Visualisierungen zur Darstellung von Unsicherheiten}{4}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Übertragung von Erkenntnissen aus anderen Domänen}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Beispiele erfolgreicher Visualisierungstechniken aus anderen Bereichen}{4}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Anwendbarkeit auf den Finanzsektor}{4}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Fazit und Ausblick}{4}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Zusammenfassung der wichtigsten Erkenntnisse}{4}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Mögliche zukünftige Forschungsrichtungen}{4}{subsection.6.2}%
+\contentsline {section}{Literaturverzeichnis}{5}{section*.4}%
+\contentsline {section}{Ehrenwörtliche Erklärung}{6}{section*.6}%
