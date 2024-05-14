@@ -42,6 +42,11 @@
 \newblock \url{http://dx.doi.org/10.1098/rsos.230604}. --
 \newblock DOI 10.1098/rsos.230604
 
+\bibitem[Kni21]{Knight1921}
+\textsc{Knight}, Frank~H.:
+\newblock \emph{Risk, Uncertainty, and Profit}.
+\newblock Boston and New York : Houghton Mifflin Company, 1921 \url{https://www.econlib.org/library/Knight/knRUP.html}
+
 \bibitem[Lar20]{Larcher2020}
 \textsc{Larcher}, Gerhard:
 \newblock \emph{Volatilitaeten}.

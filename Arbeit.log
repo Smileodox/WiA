@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  13 MAY 2024 20:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  14 MAY 2024 10:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1412,7 +1412,7 @@ File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
 
  (./Sektionen/Einfuehrung.tex [3
 
-]) [4] (./Arbeit.bbl) [5
+] [4]) [5] (./Arbeit.bbl) [6
 
 
 ]
@@ -1421,7 +1421,7 @@ File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
  (./framework/Declaration_of_Honor.tex
 
 pdfTeX warning: pdflatex (file ./framework/_Declaration_of_Honor.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<framework/_Declaration_of_Honor.pdf, id=167, 597.53635pt x 845.07529pt>
+<framework/_Declaration_of_Honor.pdf, id=180, 597.53635pt x 845.07529pt>
 File: framework/_Declaration_of_Honor.pdf Graphic file (type pdf)
 <use framework/_Declaration_of_Honor.pdf>
 Package pdftex.def Info: framework/_Declaration_of_Honor.pdf  used on input line 13.
@@ -1439,7 +1439,7 @@ pdfTeX warning: pdflatex (file ./framework/_Declaration_of_Honor.pdf): PDF inclu
 
 
 pdfTeX warning: pdflatex (file ./framework/_Declaration_of_Honor.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<framework/_Declaration_of_Honor.pdf, id=170, page=1, 597.53635pt x 845.07529pt>
+<framework/_Declaration_of_Honor.pdf, id=183, page=1, 597.53635pt x 845.07529pt>
 File: framework/_Declaration_of_Honor.pdf Graphic file (type pdf)
 <use framework/_Declaration_of_Honor.pdf, page 1>
 Package pdftex.def Info: framework/_Declaration_of_Honor.pdf , page1 used on input line 13.
@@ -1460,7 +1460,7 @@ File: framework/_Declaration_of_Honor.pdf Graphic file (type pdf)
 <use framework/_Declaration_of_Honor.pdf, page 1>
 Package pdftex.def Info: framework/_Declaration_of_Honor.pdf , page1 used on input line 13.
 (pdftex.def)             Requested size: 597.56223pt x 845.11191pt.
-[6
+[7
 
  <./framework/_Declaration_of_Honor.pdf>])
 
@@ -1470,21 +1470,21 @@ This document will not have a glossary.
 
 (./Arbeit.aux (./framework/Header_Practice_Report.aux) (./Sektionen/Einfuehrung.aux) (./framework/Declaration_of_Honor.aux))
 Package rerunfilecheck Info: File `Arbeit.out' has not changed.
-(rerunfilecheck)             Checksum: 5CCDA595072680959F138688985DB145;5647.
+(rerunfilecheck)             Checksum: 3527A6752E597AD0ED624C70D463982B;5466.
  ) 
 Here is how much of TeX's memory you used:
- 58976 strings out of 476025
- 1348761 string characters out of 5790018
- 1991540 words of memory out of 5000000
- 78330 multiletter control sequences out of 15000+600000
- 562820 words of font info for 190 fonts, out of 8000000 for 9000
+ 59017 strings out of 476025
+ 1349112 string characters out of 5790018
+ 1992579 words of memory out of 5000000
+ 78331 multiletter control sequences out of 15000+600000
+ 564310 words of font info for 213 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 122i,17n,125p,2352b,1326s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,17n,125p,2352b,1328s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Arbeit.pdf (6 pages, 234329 bytes).
+Output written on Arbeit.pdf (7 pages, 241669 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 198 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
+ 250 PDF objects out of 1000 (max. 8388607)
+ 213 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
  54982 words of extra memory for PDF output out of 61914 (max. 10000000)
 

@@ -1,7 +1,51 @@
 \section{Einleitung}
-\subsection{Motivation und Bedeutung der Visualisierung von Unsicherheiten}
-\cite{Padilla2021}
-\subsection{Ziel der Arbeit und Forschungsfragen}
+Ein fundamentales Konzept in den Wirtschaftswissenschaften ist die von Frank H. Knight eingeführte Unterscheidung zwischen Risiko und 
+Unsicherheit. Knight definierte Risiko als quantifizierbare Unsicherheit, also Situationen, in denen den möglichen Ergebnissen 
+Wahrscheinlichkeiten zugeordnet werden können. Ein klassisches Beispiel hierfür sind Versicherungen oder Glücksspiele, bei denen 
+aufgrund historischer Daten oder mathematischer Modelle die Wahrscheinlichkeiten der verschiedenen Ausgänge bekannt sind.
+
+Unsicherheit hingegen, die Knight als "echte Unsicherheit" bezeichnet, bezieht sich auf Situationen, in denen diese Zuordnung nicht 
+möglich ist. Dies tritt auf, wenn keine verlässlichen historischen Daten zur Verfügung stehen, um die Wahrscheinlichkeiten der 
+verschiedenen Ergebnisse zu prognostizieren. Ein Beispiel hierfür wäre die Einführung eines innovativen Produkts auf den Markt, bei 
+dem es keine vorherigen Daten gibt, die den Erfolg oder Misserfolg vorhersagen könnten. \cite{Knight1921}
+
+Wenn man Unsicherheit aus der Perspektive der Datenvisualisierung betrachtet, stößt man auf viele ähnliche, jedoch auch zahlreiche 
+unterschiedliche Definitionen. Haber und McNabb \cite{Haber1990} beschreiben einen generischen Prozess zur Visualisierung von Daten, 
+der die verschiedenen Stufen von der Datenbeschaffung bis zur finalen Visualisierung abdeckt. Dieser Prozess, der auch von Pang et al. \cite{Pang1997} 
+aufgegriffen wird, besteht aus mehreren Schritten, in denen Unsicherheit in unterschiedlichem Maße eingeführt und berücksichtigt
+werden muss, und diese unterschiedlichen Definitionen verdeutlicht:
+
+\begin{enumerate}
+    \item \textbf{Datenbeschaffung}:
+    In dieser Phase ist Unsicherheit inherent, sei es durch Messfehler/-ungenauigkeiten, die Beschaffung der Daten durch statistische Modelle oder unvollständige Daten.
+    
+    \item \textbf{Datenvorverarbeitung}:
+    Die beschafften Daten müssen in einem nachgehenden Schritt aufbereitet werden, in welchem durch Interpolation von fehlenden Daten, ungenaue Transformationen oder Annahmen weitere Unsicherheit einfließen kann.
+    
+    \item \textbf{Datenverarbeitung und -analyse}:
+    Diese Daten werden zur Visualisierung auf ein/mehrere geometrische Objekte gemappt. Dies stellt durch die verwendeten Algorithmen und Modelle eine neue Quelle von Unsicherheit dar.
+    
+    \item \textbf{Visualisierung}:
+    Schließlich werden die Daten visualisiert. Hier können Unsicherheiten durch die Wahl der Visualisierungstechniken und Darstellungsparameter wie Farbskalen und Fehlerbalken an sich beeinflusst werden.
+\end{enumerate}
+
+\subsection{Die Bedeutung von Unsicherheit in Finanzmärkten}
+Knight schrieb in seinem Werk ausserdem, dass in einem fairen Markt nur ein Unternehmer wirtschaftlich erfolgreich
+sein kann, wenn dieser Unsicherheiten auf sich nimmt, da andernfalls jeder Marktteilnehmer die gleichen, korrekten 
+Informationen hätte und somit kein Vorteil erarbeitet werden kann.
+Wird diese aufzunehmende Unsicherheit aber im Entscheidungsprozess falsch oder unzureichend dargestellt, kann dies fatale Folgen nach sich 
+ziehen. 
+
+Man stelle sich beispielsweise die Prognose eines Aktienkurses anhand eines Monte-Carlo-Modells vor. Sollte ein Investor auf Basis 
+dieser Prognose eine Entscheidung treffen, ist er einerseits mit der direkten quantitativen Unsicherheit der Vorhersage konfrontiert, 
+also mit der Wahrscheinlichkeit, dass genau der gewählte Zweig der Simulation zutrifft, und der Varianz. Andererseits gibt es die 
+indirekte qualitative Unsicherheit: Hat der Ersteller korrekt historische Daten verwendet? \cite{Padilla2021} Auf welcher Basis von Zufall wurde die Prognose erstellt –
+ Volatilität oder fundierte ökonomische Kennzahlen des Unternehmens? Es gilt, diese Unsicherheiten so gut wie möglich darzustellen, 
+ um den Investor bei seiner Entscheidungsfindung zu unterstützen und keine Trugschlüsse zuzulassen.
+\subsection{Ziele der Arbeit}
+Deshalb wird in dieser Arbeit untersucht, wie sich die Visualisierung von Unsicherheiten und Risiken auf Entscheidungsträger auswirkt, wie Techniken angewandt werden können um 
+die Kommunikation von Information zwischen Laien und professionellen verbessert werden kann und wie bereits entwickelte Techniken aus anderen Domänen auf die Finanzwelt übertragen werden können.
+
 
 \section{Theoretische Grundlagen}
 \subsection{Grundlagen der Risikowahrnehmung}
