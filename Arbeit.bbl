@@ -53,6 +53,13 @@
 \newblock \url{http://dx.doi.org/10.1007/978-3-658-29158-7_5}.
 \newblock \,Version:\,2020
 
+\bibitem[NM44]{vonNeumann1944}
+\textsc{Neumann}, John von ; \textsc{Morgenstern}, Oskar:
+\newblock \emph{Theory of Games and Economic Behavior}.
+\newblock 1.
+\newblock Princeton, NJ : Princeton University Press, 1944. --
+\newblock ISBN 978--0--691--00362--3
+
 \bibitem[PKH21]{Padilla2021}
 \textsc{Padilla}, Lace ; \textsc{Kay}, Matthew  ; \textsc{Hullman}, Jessica:
 \newblock Uncertainty Visualization.
@@ -68,5 +75,22 @@
 \newblock \url{http://dx.doi.org/10.1007/s003710050111}. --
 \newblock DOI 10.1007/s003710050111. --
 \newblock ISSN 1432--2315
+
+\bibitem[SBC{\etalchar{+}}23]{VisualizationPsychology2023}
+\textsc{Szafir}, Danielle~A. (Hrsg.) ; \textsc{Borgo}, Rita (Hrsg.) ; \textsc{Chen}, Min (Hrsg.) ; \textsc{Edwards}, Darren~J. (Hrsg.) ; \textsc{Fisher}, Brian (Hrsg.)  ; \textsc{Padilla}, Lace (Hrsg.):
+\newblock \emph{Visualization Psychology}.
+\newblock 1.
+\newblock Cham, Switzerland : Springer Cham, 2023.
+\newblock \url{http://dx.doi.org/10.1007/978-3-031-34738-2}.
+\newblock \url{http://dx.doi.org/10.1007/978-3-031-34738-2}. --
+\newblock ISBN 978--3--031--34737--5. --
+\newblock Published: 06 November 2023, Softcover due: 08 December 2023, Number of Pages: XIX, 392, Number of Illustrations: 1 b/w illustrations
+
+\bibitem[TK74]{Tversky74}
+\textsc{Tversky}, Amos ; \textsc{Kahneman}, Daniel:
+\newblock Judgment under Uncertainty: Heuristics and Biases.
+\newblock {In: }\emph{Science} 185 (1974), Nr. 4157, 1124-1131.
+\newblock \url{http://dx.doi.org/10.1126/science.185.4157.1124}. --
+\newblock DOI 10.1126/science.185.4157.1124
 
 \end{thebibliography}

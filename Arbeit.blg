@@ -13,45 +13,49 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: Verzeichnisse/Literaturverzeichnis.bib
 Warning--entry type for "Larcher2020" isn't style-file defined
 --line 14 of file Verzeichnisse/Literaturverzeichnis.bib
-You've used 9 entries,
+Warning--I'm ignoring VisualizationPsychology2023's extra "isbn" field
+--line 114 of file Verzeichnisse/Literaturverzeichnis.bib
+Warning--I'm ignoring VisualizationPsychology2023's extra "isbn" field
+--line 115 of file Verzeichnisse/Literaturverzeichnis.bib
+You've used 12 entries,
             4793 wiz_defined-function locations,
-            978 strings with 8506 characters,
-and the built_in function-call counts, 8292 in all, are:
-= -- 899
-> -- 205
-< -- 274
-+ -- 309
-- -- 86
-* -- 628
-:= -- 1343
-add.period$ -- 17
-call.type$ -- 9
-change.case$ -- 53
-chr.to.int$ -- 9
-cite$ -- 9
-duplicate$ -- 180
-empty$ -- 543
-format.name$ -- 134
-if$ -- 1617
+            1009 strings with 9349 characters,
+and the built_in function-call counts, 11125 in all, are:
+= -- 1202
+> -- 283
+< -- 360
++ -- 409
+- -- 115
+* -- 846
+:= -- 1814
+add.period$ -- 25
+call.type$ -- 12
+change.case$ -- 72
+chr.to.int$ -- 12
+cite$ -- 12
+duplicate$ -- 241
+empty$ -- 734
+format.name$ -- 183
+if$ -- 2178
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 44
-newline$ -- 72
-num.names$ -- 27
-pop$ -- 75
+missing$ -- 58
+newline$ -- 96
+num.names$ -- 36
+pop$ -- 95
 preamble$ -- 1
-purify$ -- 71
+purify$ -- 96
 quote$ -- 0
-skip$ -- 404
+skip$ -- 530
 stack$ -- 0
-substring$ -- 887
-swap$ -- 47
-text.length$ -- 39
+substring$ -- 1189
+swap$ -- 64
+text.length$ -- 52
 text.prefix$ -- 2
 top$ -- 0
-type$ -- 86
+type$ -- 108
 warning$ -- 0
-while$ -- 63
-width$ -- 11
-write$ -- 147
-(There was 1 warning)
+while$ -- 85
+width$ -- 15
+write$ -- 199
+(There were 3 warnings)

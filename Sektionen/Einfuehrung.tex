@@ -42,24 +42,78 @@ also mit der Wahrscheinlichkeit, dass genau der gewählte Zweig der Simulation z
 indirekte qualitative Unsicherheit: Hat der Ersteller korrekt historische Daten verwendet? \cite{Padilla2021} Auf welcher Basis von Zufall wurde die Prognose erstellt –
  Volatilität oder fundierte ökonomische Kennzahlen des Unternehmens? Es gilt, diese Unsicherheiten so gut wie möglich darzustellen, 
  um den Investor bei seiner Entscheidungsfindung zu unterstützen und keine Trugschlüsse zuzulassen.
+
 \subsection{Ziele der Arbeit}
 Deshalb wird in dieser Arbeit untersucht, wie sich die Visualisierung von Unsicherheiten und Risiken auf Entscheidungsträger auswirkt, wie Techniken angewandt werden können um 
 die Kommunikation von Information zwischen Laien und professionellen verbessert werden kann und wie bereits entwickelte Techniken aus anderen Domänen auf die Finanzwelt übertragen werden können.
 
+Im folgendem Kapitel werden Grundlagen zur Entscheidungsfindungen von Menschen sowie Techniken der Visualisierung von Unsicherheiten beleuchtet,
+daraufhin
+
 
 \section{Theoretische Grundlagen}
-\subsection{Grundlagen der Risikowahrnehmung}
-\cite{Larcher2020}
-\subsection{Visualisierungstechniken und ihre psychologischen Effekte}
+Es wird die Basis geschaffen um Visualiserungstechniken sowie ihre Bedeutung in der Entscheidungsfindung besser verstehen zu können.
+
+\subsection{Theorien zur Entscheidungsfindung unter Unsicherheit}
+Im Folgendem werden Theorien zur Entscheidungsfindung unter Unsicherheit näher beleuchtet, welche laut Padille et al. notwendigerweiße berücksichtigt
+werden müssen, um Visualisierungstechniken auf Basis ihrer Rolle in Entscheidungsfindungen in anbetracht von Unsicherheit bewerten zu können. \cite{VisualizationPsychology2023}
+
+\subsubsection{Erwartungsnutzentheorie}
+
+Die Erwartungsnutzentheorie (\ac{EUT}) ist ein grundlegendes Modell in der Entscheidungstheorie, das beschreibt, wie rationale Akteure Entscheidungen unter Unsicherheit 
+treffen sollten. Entwickelt von John von Neumann und Oskar Morgenstern, basiert die EUT auf der Annahme, dass Individuen bei der 
+Wahl zwischen unsicheren Alternativen jene Option bevorzugen, die den höchsten erwarteten Nutzen bietet. Der erwartete Nutzen eines 
+Ergebnisses wird dabei als das Produkt aus der Wahrscheinlichkeit des Ergebnisses und dem subjektiven Wert (Nutzen) dieses Ergebnisses 
+berechnet.
+
+Die formale Darstellung der Erwartungsnutzentheorie lautet:
+
+\begin{equation}
+EU = \sum_{i=1}^{n} p_i \cdot u(x_i)
+\end{equation}
+
+Dabei ist \( EU \) der erwartete Nutzen, \( p_i \) die Wahrscheinlichkeit des Ergebnisses \( x_i \) und \( u(x_i) \) der Nutzen des 
+Ergebnisses \( x_i \).
+
+Die EUT geht davon aus, dass Individuen konsistente Präferenzen haben und stets die Alternative mit dem höchsten erwarteten Nutzen 
+wählen. \cite{vonNeumann1944} Diese Theorie hat weitreichende Anwendungen in der Finanzwelt, beispielsweise bei der Analyse von 
+Investitionsentscheidungen und Risiken. 
+
+\subsubsection{Dual-Process-Theorie}
+
+Die Dual-Process-Theorie beschreibt, wie Menschen zwei verschiedene Arten von Denkprozessen nutzen, um Entscheidungen zu treffen: 
+intuitives (Type 1) und analytisches (Type 2) Denken. Fundierungen für diese Theorie wurden von Psychologen wie Daniel Kahneman und Keith 
+Stanovich zum Beispie in \cite{Tversky74} über Jahre hinweg entwickelt und hebt hervor, dass Menschen je nach Situation und 
+Komplexität der Aufgabe zwischen diesen beiden Denkmodi wechseln.
+
+\begin{itemize}
+    \item \textbf{Type 1 Prozesse}: Diese sind schnell, automatisch und erfordern wenig kognitive Anstrengung. 
+    Sie basieren auf Intuition und Heuristiken, die oft aus Erfahrungen und erlernten Mustern resultieren. 
+    Type 1 Prozesse sind nützlich in routinierten und vertrauten Situationen, können jedoch zu systematischen 
+    Fehlern und Verzerrungen führen.
+    \item \textbf{Type 2 Prozesse}: Diese sind langsam, bewusst und erfordern erhebliche kognitive Anstrengung. 
+    Sie basieren auf logischem Denken und systematischer Analyse. Type 2 Prozesse kommen zum Einsatz, wenn komplexe 
+    und neue Situationen eine gründliche Bewertung erfordern.
+\end{itemize}
+
+Die Dual-Process-Theorie erklärt, warum Menschen in vielen Situationen intuitive Entscheidungen treffen, die schnell und effizient 
+sind, aber manchmal zu suboptimalen Ergebnissen führen. Sie betont auch die Notwendigkeit, analytisches Denken zu fördern, 
+insbesondere bei komplexen und wichtigen Entscheidungen, bei denen Fehler schwerwiegende Konsequenzen haben können.
+
+
+\subsection{Datenvisualisierung in der Finanzwelt}
+\subsubsection{Visualisierungsprozess}
+\subsubsection{Techniken zur Visualisierung von Unischerheiten}
 \cite{Joslyn2021}
 
 \section{Einfluss von Visualisierungstechniken auf die Risikowahrnehmung}
-\subsection{Unterschiedliche Visualisierungstechniken und ihre Eigenschaften}
+\subsection{Fallstudie Lotterie}
+\cite{Larcher2020}
 \cite{Pang1997}
 \cite{Kerr2023}
 \cite{Brodlie2012ARO}
 \cite{Haber1990}
-\subsection{Studien zur Risikowahrnehmung in der Finanzanalyse}
+\subsection{Fallstudie Fantasy Football}
 
 \section{Verbesserung der Kommunikation durch Visualisierungstechniken}
 \subsection{Kommunikation zwischen Finanzanalysten und Laieninvestoren}
