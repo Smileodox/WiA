@@ -6,20 +6,23 @@
 \contentsline {subsection}{\numberline {2.1}Theorien zur Entscheidungsfindung unter Unsicherheit}{4}{subsection.2.1}%
 \contentsline {subsubsection}{\numberline {2.1.1}Erwartungsnutzentheorie}{5}{subsubsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.1.2}Dual-Process-Theorie}{5}{subsubsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.2}Datenvisualisierung in der Finanzwelt}{6}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Visualisierungsprozess}{6}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.2}Techniken zur Visualisierung von Unischerheiten}{6}{subsubsection.2.2.2}%
-\contentsline {section}{\numberline {3}Einfluss von Visualisierungstechniken auf die Risikowahrnehmung}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Fallstudie Lotterie}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Fallstudie Fantasy Football}{6}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Verbesserung der Kommunikation durch Visualisierungstechniken}{6}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Kommunikation zwischen Finanzanalysten und Laieninvestoren}{6}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Einsatz von Visualisierungen zur Kommunikation von Unsicherheiten}{7}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Übertragung von Erkenntnissen aus anderen Domänen}{7}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Beispiele erfolgreicher Visualisierungstechniken aus anderen Bereichen}{7}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Anwendbarkeit auf den Finanzsektor}{7}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Fazit und Ausblick}{7}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Zusammenfassung der wichtigsten Erkenntnisse}{7}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Proposal für künftige Forschung}{7}{subsection.6.2}%
-\contentsline {section}{Literaturverzeichnis}{8}{section*.2}%
-\contentsline {section}{Ehrenwörtliche Erklärung}{10}{section*.4}%
+\contentsline {subsection}{\numberline {2.2}Hintergrundwissen zur Visualisierung von Unsicherheit}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Quantile Dotplots}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Frequency Framing}{6}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Quantile Dotplots}{7}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Attribute Substitution}{7}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Hypothetical Outcome Plots}{7}{subsubsection.2.2.5}%
+\contentsline {section}{\numberline {3}Einfluss von Visualisierungstechniken auf die Risikowahrnehmung}{8}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Fallstudie Lotterie}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Fallstudie Fantasy Football}{8}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Verbesserung der Kommunikation durch Visualisierungstechniken}{8}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Kommunikation zwischen Finanzanalysten und Laieninvestoren}{8}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Einsatz von Visualisierungen zur Kommunikation von Unsicherheiten}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Übertragung von Erkenntnissen aus anderen Domänen}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Beispiele erfolgreicher Visualisierungstechniken aus anderen Bereichen}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Anwendbarkeit auf den Finanzsektor}{9}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Fazit und Ausblick}{9}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Zusammenfassung der wichtigsten Erkenntnisse}{9}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Proposal für künftige Forschung}{9}{subsection.6.2}%
+\contentsline {section}{Literaturverzeichnis}{10}{section*.2}%
+\contentsline {section}{Ehrenwörtliche Erklärung}{12}{section*.4}%

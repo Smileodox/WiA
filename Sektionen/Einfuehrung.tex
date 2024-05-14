@@ -40,8 +40,8 @@ Man stelle sich beispielsweise die Prognose eines Aktienkurses anhand eines Mont
 dieser Prognose eine Entscheidung treffen, ist er einerseits mit der direkten quantitativen Unsicherheit der Vorhersage konfrontiert, 
 also mit der Wahrscheinlichkeit, dass genau der gewählte Zweig der Simulation zutrifft, und der Varianz. Andererseits gibt es die 
 indirekte qualitative Unsicherheit: Hat der Ersteller korrekt historische Daten verwendet? \cite{Padilla2021} Auf welcher Basis von Zufall wurde die Prognose erstellt –
- Volatilität oder fundierte ökonomische Kennzahlen des Unternehmens? Es gilt, diese Unsicherheiten so gut wie möglich darzustellen, 
- um den Investor bei seiner Entscheidungsfindung zu unterstützen und keine Trugschlüsse zuzulassen.
+Volatilität oder fundierte ökonomische Kennzahlen des Unternehmens? Es gilt, diese Unsicherheiten so gut wie möglich darzustellen, 
+um den Investor bei seiner Entscheidungsfindung zu unterstützen und keine Trugschlüsse zuzulassen.
 
 \subsection{Ziele der Arbeit}
 Deshalb wird in dieser Arbeit untersucht, wie sich die Visualisierung von Unsicherheiten und Risiken auf Entscheidungsträger auswirkt, wie Techniken angewandt werden können um 
@@ -56,7 +56,8 @@ Es wird die Basis geschaffen um Visualiserungstechniken sowie ihre Bedeutung in 
 
 \subsection{Theorien zur Entscheidungsfindung unter Unsicherheit}
 Im Folgendem werden Theorien zur Entscheidungsfindung unter Unsicherheit näher beleuchtet, welche laut Padille et al. notwendigerweiße berücksichtigt
-werden müssen, um Visualisierungstechniken auf Basis ihrer Rolle in Entscheidungsfindungen in anbetracht von Unsicherheit bewerten zu können. \cite{VisualizationPsychology2023}
+werden müssen, um Visualisierungstechniken auf Basis ihrer Rolle in Entscheidungsfindungen in anbetracht von Unsicherheit bewerten zu können. Diese 
+werden in Sektion 3 wieder aufgegriffen, um die Auswirkung unterschiedlicher Visualisierungsmethoden auf die Entscheidungsfindung zu erklären. \cite{VisualizationPsychology2023}
 
 \subsubsection{Erwartungsnutzentheorie}
 
@@ -101,9 +102,61 @@ sind, aber manchmal zu suboptimalen Ergebnissen führen. Sie betont auch die Not
 insbesondere bei komplexen und wichtigen Entscheidungen, bei denen Fehler schwerwiegende Konsequenzen haben können.
 
 
-\subsection{Datenvisualisierung in der Finanzwelt}
-\subsubsection{Visualisierungsprozess}
-\subsubsection{Techniken zur Visualisierung von Unischerheiten}
+\subsection{Hintergrundwissen zur Visualisierung von Unsicherheit}
+
+Um die Bedeutung der Visualisierung von Unsicherheiten auf die Entscheidungsfindung besser zu verstehen, werden hier
+Konzepte und Techniken erläutert, welche bekanntermassen eine positive Auswirkung auf die rationale Entscheidungsfindung haben, 
+was in Sektion 3 weiter beleuchtet wird.
+
+\subsubsection{Quantile Dotplots}
+Quantile Dotplots sind eine Visualisierungstechnik, die darauf abzielt, Unsicherheit durch diskrete Punkte darzustellen, 
+die bestimmte Quantile einer Verteilung repräsentieren. Diese Methode hilft den Nutzern, Wahrscheinlichkeiten und Verteilungen 
+auf intuitive Weise zu verstehen, indem sie visuelle Hinweise liefert, die leicht gezählt und interpretiert werden können. 
+Kay et al. haben gezeigt, dass Quantile Dotplots die Genauigkeit von Entscheidungsfindungen verbessern können, indem sie die 
+Verteilung von Unsicherheiten klar und verständlich darstellen. \cite{Kay2016}.
+
+Diese Technik schneidet nicht nur in normalen Bewertungsmaßen 
+von Visualiesierungsmethoden, nämlich wie akkurat und schnell sie Informationen übermitteln können, gut ab, sonder verbessern
+nach Fernandes et al. auch die Fähigkeit rationale Entscheidungen zu treffen \cite{Fernandes2018}  
+
+
+\subsubsection{Frequency Framing}
+Padilla et al. ordnet die Visualsierungstechnik Quantile Dotplot zu der Theorie Frequency Framing zu, welche sich auf die Darstellung von Wahrscheinlichkeiten 
+und Unsicherheiten in Form von Frequenzen anstelle von Prozentwerten oder abstrakten Wahrscheinlichkeiten bezieht. Untersuchungen zeigen, dass Menschen Frequenzen oft besser 
+verstehen und verarbeiten können. Padilla et al. brachte das Beispiel, dass die Angabe „1 von 10“ klarer sei als „10\%“ Wahrscheinlichkeit. Sie
+betonen, dass Frequency Framing besonders nützlich sein kann, um Unsicherheiten in alltäglichen Entscheidungsprozessen zu kommunizieren, 
+da es die Wahrscheinlichkeit, dass Missverständnisse entstehen, reduziert und somit zu besseren Entscheidungsfindungen führen 
+kann \cite{Padilla2021}.
+
+\subsubsection{Quantile Dotplots}
+Quantile Dotplots sind eine Visualisierungstechnik, die darauf abzielt, Unsicherheit durch diskrete Punkte darzustellen, 
+die bestimmte Quantile einer Verteilung repräsentieren. Diese Methode hilft den Nutzern, Wahrscheinlichkeiten und Verteilungen 
+auf intuitive Weise zu verstehen, indem sie visuelle Hinweise liefert, die leicht gezählt und interpretiert werden können. 
+Padilla et al. haben gezeigt, dass Quantile Dotplots die Genauigkeit von Entscheidungsfindungen verbessern können, indem sie 
+die Verteilung von Unsicherheiten klar und verständlich darstellen. Diese Technik ist besonders nützlich in Szenarien, in denen 
+eine schnelle und präzise Interpretation von Wahrscheinlichkeiten erforderlich ist, wie beispielsweise bei der Vorhersage von 
+Finanzmärkten oder Wetterbedingungen \cite{Padilla2021}.
+
+
+
+\subsubsection{Attribute Substitution}
+Attribute Substitution ist ein psychologisches Phänomen, bei dem Menschen eine komplexe Frage durch eine einfachere ersetzen und 
+dann die einfachere Frage beantworten. Dies geschieht oft unbewusst und kann zu systematischen Fehlern führen. Bei der 
+Entscheidungsfindung unter Unsicherheit kann es beispielsweise vorkommen, dass Menschen die komplexe Wahrscheinlichkeit 
+einer bestimmten Unsicherheit durch ein intuitiveres Gefühl oder eine Heuristik ersetzen. Padilla et al. zeigen, dass 
+dieses Verhalten insbesondere in stressigen oder zeitkritischen Situationen auftritt, und dass geeignete Visualisierungstechniken 
+dazu beitragen können, diese Verzerrungen zu minimieren, indem sie die zugrunde liegenden Informationen klar und verständlich 
+darstellen \cite{Padilla2021}.
+
+\subsubsection{Hypothetical Outcome Plots}
+Hypothetical Outcome Plots (HOPs) sind eine innovative Visualisierungstechnik, die Unsicherheiten durch die Darstellung 
+mehrerer möglicher zukünftiger Szenarien in einem dynamischen Plot veranschaulicht. Diese Methode hilft Nutzern, 
+ein besseres Verständnis für die Bandbreite möglicher Ergebnisse und deren Wahrscheinlichkeiten zu entwickeln. Padilla et al. 
+zeigen, dass HOPs die Fähigkeit von Nutzern verbessern können, Unsicherheiten zu verarbeiten und fundierte Entscheidungen zu 
+treffen, da sie die Variabilität der Ergebnisse auf anschauliche Weise darstellen \cite{Padilla2021}. Dies ist besonders 
+relevant in Bereichen wie Finanzprognosen und Risikomanagement, wo das Verständnis der gesamten Bandbreite möglicher zukünftiger 
+Zustände entscheidend ist.
+
 \cite{Joslyn2021}
 
 \section{Einfluss von Visualisierungstechniken auf die Risikowahrnehmung}
