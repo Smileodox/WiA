@@ -1,7 +1,7 @@
 This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Arbeit.aux
-A level-1 auxiliary file: framework/Header_Practice_Report.aux
+A level-1 auxiliary file: framework/Header.aux
 A level-1 auxiliary file: Sektionen/Einfuehrung.aux
 The style file: alphadin.bst
 A level-1 auxiliary file: framework/Declaration_of_Honor.aux
@@ -19,7 +19,7 @@ Warning--I'm ignoring VisualizationPsychology2023's extra "isbn" field
 --line 115 of file Verzeichnisse/Literaturverzeichnis.bib
 You've used 12 entries,
             4793 wiz_defined-function locations,
-            1009 strings with 9349 characters,
+            1009 strings with 9333 characters,
 and the built_in function-call counts, 11125 in all, are:
 = -- 1202
 > -- 283
