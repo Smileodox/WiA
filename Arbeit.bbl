@@ -8,20 +8,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[BBML10]{Boller2010}
-\textsc{Boller}, Ryan~A. ; \textsc{Braun}, Scott~A. ; \textsc{Miles}, Jadrian  ; \textsc{Laidlaw}, David~H.:
-\newblock Application of Uncertainty Visualization Methods to Meteorological Trajectories.
-\newblock {In: }\emph{Earth Science Informatics} 3 (2010), June, Nr. 1, 119--126.
-\newblock \url{http://dx.doi.org/10.1007/s12145-010-0052-5}. --
-\newblock DOI 10.1007/s12145--010--0052--5. --
-\newblock ISSN 1865--0481
-
-\bibitem[BOL12]{Brodlie2012ARO}
-\textsc{Brodlie}, Ken ; \textsc{Osorio}, Rodolfo S.~A.  ; \textsc{Lopes}, Adriano:
-\newblock A Review of Uncertainty in Data Visualization.
-\newblock   (2012).
-\newblock \url{https://api.semanticscholar.org/CorpusID:16557526}
-
 \bibitem[FWM{\etalchar{+}}18]{Fernandes2018}
 \textsc{Fernandes}, Michael ; \textsc{Walls}, Logan ; \textsc{Munson}, Sean ; \textsc{Hullman}, Jessica  ; \textsc{Kay}, Matthew:
 \newblock Uncertainty Displays Using Quantile Dotplots or CDFs Improve Transit Decision-Making.
@@ -35,20 +21,12 @@
 \newblock Visualization Idioms: A Conceptual Model for Scientific Visualization Systems.
 \newblock   (1990), S. 74--93
 
-\bibitem[JS21]{Joslyn2021}
-\textsc{Joslyn}, Susan ; \textsc{Savelli}, Sonia:
-\newblock Visualizing Uncertainty for Non-Expert End Users: The Challenge of the Deterministic Construal Error.
-\newblock {In: }\emph{Frontiers in Computer Science} 2 (2021).
-\newblock \url{http://dx.doi.org/10.3389/fcomp.2020.590232}. --
-\newblock DOI 10.3389/fcomp.2020.590232. --
-\newblock ISSN 2624--9898
-
-\bibitem[KBD{\etalchar{+}}23]{Kerr2023}
-\textsc{Kerr}, John ; \textsc{Bles}, Anne-Marthe van~d. ; \textsc{Dryhurst}, Sarah ; \textsc{Schneider}, Claudia~R. ; \textsc{Chopurian}, Vivien ; \textsc{Freeman}, Alexandra L.~J.  ; \textsc{Linden}, Sander van~d.:
-\newblock The effects of communicating uncertainty around statistics, on public trust.
-\newblock {In: }\emph{R. Soc. Open Sci.} 10 (2023), 230604.
-\newblock \url{http://dx.doi.org/10.1098/rsos.230604}. --
-\newblock DOI 10.1098/rsos.230604
+\bibitem[KKH21]{Kale2021}
+\textsc{Kale}, Alex ; \textsc{Kay}, Matthew  ; \textsc{Hullman}, Jessica:
+\newblock Visual Reasoning Strategies for Effect Size Judgments and Decisions.
+\newblock {In: }\emph{IEEE Transactions on Visualization and Computer Graphics} 27 (2021), Nr. 2, S. 272--282.
+\newblock \url{http://dx.doi.org/10.1109/TVCG.2020.3030335}. --
+\newblock DOI 10.1109/TVCG.2020.3030335
 
 \bibitem[KKHM16]{Kay2016}
 \textsc{Kay}, Matthew ; \textsc{Kola}, Tara ; \textsc{Hullman}, Jessica~R.  ; \textsc{Munson}, Sean~A.:
@@ -63,18 +41,19 @@
 \newblock \emph{Risk, Uncertainty, and Profit}.
 \newblock Boston and New York : Houghton Mifflin Company, 1921 \url{https://www.econlib.org/library/Knight/knRUP.html}
 
-\bibitem[Lar20]{Larcher2020}
-\textsc{Larcher}, Gerhard:
-\newblock \emph{Volatilitaeten}.
-\newblock \url{http://dx.doi.org/10.1007/978-3-658-29158-7_5}.
-\newblock \,Version:\,2020
-
 \bibitem[NM44]{vonNeumann1944}
 \textsc{Neumann}, John von ; \textsc{Morgenstern}, Oskar:
 \newblock \emph{Theory of Games and Economic Behavior}.
 \newblock 1.
 \newblock Princeton, NJ : Princeton University Press, 1944. --
 \newblock ISBN 978--0--691--00362--3
+
+\bibitem[PC14]{Platon2014}
+\textsc{Platon}, Victor ; \textsc{Constantinescu}, Andreea:
+\newblock Monte Carlo Method in Risk Analysis for Investment Projects.
+\newblock {In: }\emph{Procedia Economics and Finance} 15 (2014), S. 393--400.
+\newblock \url{http://dx.doi.org/10.1016/S2212-5671(14)00463-8}. --
+\newblock DOI 10.1016/S2212--5671(14)00463--8
 
 \bibitem[PKH21]{Padilla2021}
 \textsc{Padilla}, Lace ; \textsc{Kay}, Matthew  ; \textsc{Hullman}, Jessica:
@@ -108,5 +87,11 @@
 \newblock {In: }\emph{Science} 185 (1974), Nr. 4157, 1124-1131.
 \newblock \url{http://dx.doi.org/10.1126/science.185.4157.1124}. --
 \newblock DOI 10.1126/science.185.4157.1124
+
+\bibitem[WB14]{Walter2014}
+\textsc{Walter}, J.-C. ; \textsc{Barkema}, G.~T.:
+\newblock An introduction to Monte Carlo methods.
+\newblock {In: }\emph{Physica A}  (2014).
+\newblock \url{https://arxiv.org/abs/1404.0209}
 
 \end{thebibliography}
