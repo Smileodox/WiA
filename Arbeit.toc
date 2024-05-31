@@ -1,22 +1,23 @@
 \babel@toc {ngerman}{}\relax 
 \contentsline {section}{Abbildungsverzeichnis}{3}{section*.2}%
-\contentsline {section}{\numberline {1}Einleitung}{4}{section.1}%
+\contentsline {section}{\numberline {1}Einführung}{4}{section.1}%
 \contentsline {subsection}{\numberline {1.1}Die Bedeutung von Unsicherheit in Finanzmärkten}{5}{subsection.1.1}%
 \contentsline {subsection}{\numberline {1.2}Ziele der Arbeit}{5}{subsection.1.2}%
-\contentsline {section}{\numberline {2}Theorien zur Entscheidungsfindung unter Unsicherheit}{5}{section.2}%
+\contentsline {section}{\numberline {2}Theorien zur Entscheidungsfindung unter Unsicherheit}{6}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Erwartungsnutzentheorie}{6}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Dual-Process-Theorie}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Vergleich der Theorien}{7}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Unsicherheitsvisualisierung zur Entscheidungsstützung}{7}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Fallstudie Fantasy Football}{7}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Quantile Dotplots}{8}{subsection.3.2}%
 \contentsline {section}{\numberline {4}Monte Carlo Simulationen zur Unterstützung von Investmententscheidungen}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Grundprinzipien der Monte Carlo Methode}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Monte Carlo in der Risikonalyse}{10}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Übertragung von Erkenntnissen auf Monte Carlo}{11}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Eigene Monte Carlo Simulation mit Quantile Dotplot Darstellung}{11}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Diskussion}{11}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Fazit und Ausblick}{12}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Zusammenfassung der wichtigsten Erkenntnisse}{12}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Proposal für künftige Forschung}{13}{subsection.6.2}%
-\contentsline {section}{Literaturverzeichnis}{14}{section*.4}%
-\contentsline {section}{Ehrenwörtliche Erklärung}{16}{section*.6}%
+\contentsline {subsection}{\numberline {4.1}Grundprinzipien der Monte Carlo Methode}{10}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Monte Carlo in der Risikonalyse}{11}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Übertragung von Erkenntnissen auf Finanzwelt}{11}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Eigene Monte Carlo Simulation mit Quantile Dotplot Darstellung}{12}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Diskussion}{12}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Fazit und Ausblick}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Zusammenfassung der wichtigsten Erkenntnisse}{13}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Vorschläge für künftige Forschung}{13}{subsection.6.2}%
+\contentsline {section}{Literaturverzeichnis}{15}{section*.4}%
+\contentsline {section}{Ehrenwörtliche Erklärung}{17}{section*.6}%

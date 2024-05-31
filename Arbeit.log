@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  31 MAY 2024 09:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  31 MAY 2024 13:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1352,7 +1352,7 @@ Package hyperref Info: Link coloring ON on input line 30.
 \openout2 = `framework/Header.aux'.
 
  (./framework/Header.tex
-<framework/Logo_HS_Coburg.png, id=91, 322.69395pt x 77.64824pt>
+<framework/Logo_HS_Coburg.png, id=95, 322.69395pt x 77.64824pt>
 File: framework/Logo_HS_Coburg.png Graphic file (type png)
 <use framework/Logo_HS_Coburg.png>
 Package pdftex.def Info: framework/Logo_HS_Coburg.png  used on input line 2.
@@ -1418,34 +1418,35 @@ File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
  (./Sektionen/Einfuehrung.tex [4
 
 ] [5]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 88.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 77.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [6] [7] [8] [9] [10]
-<Bilder//../Bilder/MonteCarloPlot.png, id=204, 722.7pt x 433.62pt>
-File: Bilder//../Bilder/MonteCarloPlot.png Graphic file (type png)
-<use Bilder//../Bilder/MonteCarloPlot.png>
-Package pdftex.def Info: Bilder//../Bilder/MonteCarloPlot.png  used on input line 253.
-(pdftex.def)             Requested size: 386.96027pt x 232.1796pt.
-<Bilder//../Bilder/AAPL_QDP.png, id=205, 582.175pt x 268.00125pt>
+) [6] [7] [8] [9]
+Overfull \hbox (6.40266pt too wide) in paragraph at lines 140--141
+[]\T1/ptm/m/n/12 (-20) Der häu-figs-te ein-ge-setz-te Al-go-rith-mus in der Mon-te Car-lo Me-tho-de ist der Metropolis-Algorithmus.
+ []
+
+[10] [11]
+<Bilder//MonteCarloPlot.png, id=214, 722.7pt x 433.62pt>
+File: Bilder//MonteCarloPlot.png Graphic file (type png)
+<use Bilder//MonteCarloPlot.png>
+Package pdftex.def Info: Bilder//MonteCarloPlot.png  used on input line 192.
+(pdftex.def)             Requested size: 218.51521pt x 131.10594pt.
+<Bilder//../Bilder/AAPL_QDP.png, id=215, 582.175pt x 268.00125pt>
 File: Bilder//../Bilder/AAPL_QDP.png Graphic file (type png)
 <use Bilder//../Bilder/AAPL_QDP.png>
-Package pdftex.def Info: Bilder//../Bilder/AAPL_QDP.png  used on input line 258.
-(pdftex.def)             Requested size: 386.96027pt x 178.1368pt.
+Package pdftex.def Info: Bilder//../Bilder/AAPL_QDP.png  used on input line 199.
+(pdftex.def)             Requested size: 218.51521pt x 100.59018pt.
+ [12 <./Bilder//MonteCarloPlot.png> <./Bilder//../Bilder/AAPL_QDP.png>]) [13] [14] (./Arbeit.bbl [15
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11] [12 <./Bilder//../Bilder/MonteCarloPlot.png> <./Bilder//../Bilder/AAPL_QDP.png>]) [13] (./Arbeit.bbl [14
-
-
-]) [15]
+]) [16]
 \openout2 = `framework/Declaration_of_Honor.aux'.
 
  (./framework/Declaration_of_Honor.tex
 
 pdfTeX warning: pdflatex (file ./framework/_Declaration_of_Honor.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<framework/_Declaration_of_Honor.pdf, id=252, 597.53635pt x 845.07529pt>
+<framework/_Declaration_of_Honor.pdf, id=263, 597.53635pt x 845.07529pt>
 File: framework/_Declaration_of_Honor.pdf Graphic file (type pdf)
 <use framework/_Declaration_of_Honor.pdf>
 Package pdftex.def Info: framework/_Declaration_of_Honor.pdf  used on input line 13.
@@ -1463,7 +1464,7 @@ pdfTeX warning: pdflatex (file ./framework/_Declaration_of_Honor.pdf): PDF inclu
 
 
 pdfTeX warning: pdflatex (file ./framework/_Declaration_of_Honor.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<framework/_Declaration_of_Honor.pdf, id=255, page=1, 597.53635pt x 845.07529pt>
+<framework/_Declaration_of_Honor.pdf, id=266, page=1, 597.53635pt x 845.07529pt>
 File: framework/_Declaration_of_Honor.pdf Graphic file (type pdf)
 <use framework/_Declaration_of_Honor.pdf, page 1>
 Package pdftex.def Info: framework/_Declaration_of_Honor.pdf , page1 used on input line 13.
@@ -1484,7 +1485,7 @@ File: framework/_Declaration_of_Honor.pdf Graphic file (type pdf)
 <use framework/_Declaration_of_Honor.pdf, page 1>
 Package pdftex.def Info: framework/_Declaration_of_Honor.pdf , page1 used on input line 13.
 (pdftex.def)             Requested size: 597.56223pt x 845.11191pt.
-[16
+[17
 
  <./framework/_Declaration_of_Honor.pdf>])
 
@@ -1494,24 +1495,27 @@ This document will not have a glossary.
 
 (./Arbeit.aux (./framework/Header.aux) (./Sektionen/Einfuehrung.aux) (./framework/Declaration_of_Honor.aux))
 Package rerunfilecheck Info: File `Arbeit.out' has not changed.
-(rerunfilecheck)             Checksum: F2B80571503D64D417B3E2B645BD3B07;4668.
+(rerunfilecheck)             Checksum: 4CBAC5EFB2D6F2CF045A704E35C911BE;4850.
  ) 
 Here is how much of TeX's memory you used:
- 59219 strings out of 476025
- 1351244 string characters out of 5790018
- 1994419 words of memory out of 5000000
- 78410 multiletter control sequences out of 15000+600000
- 574111 words of font info for 285 fonts, out of 8000000 for 9000
+ 59218 strings out of 476025
+ 1351210 string characters out of 5790018
+ 1994559 words of memory out of 5000000
+ 78413 multiletter control sequences out of 15000+600000
+ 570108 words of font info for 277 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 122i,17n,125p,2352b,1376s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 122i,17n,125p,2352b,1359s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-pdfTeX warning (dest): name{glo:EUT} has been referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{figure.2} has been referenced but does not exist, replaced by a fixed one
 
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Arbeit.pdf (16 pages, 682508 bytes).
+
+pdfTeX warning (dest): name{figure.1} has been referenced but does not exist, replaced by a fixed one
+
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Arbeit.pdf (17 pages, 692740 bytes).
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 278 compressed objects within 3 object streams
- 65 named destinations out of 1000 (max. 500000)
- 52952 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 348 PDF objects out of 1000 (max. 8388607)
+ 291 compressed objects within 3 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 52960 words of extra memory for PDF output out of 61914 (max. 10000000)
 
