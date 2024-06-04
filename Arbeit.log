@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  31 MAY 2024 13:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  31 MAY 2024 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1512,7 +1512,7 @@ pdfTeX warning (dest): name{figure.2} has been referenced but does not exist, re
 pdfTeX warning (dest): name{figure.1} has been referenced but does not exist, replaced by a fixed one
 
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Arbeit.pdf (17 pages, 692740 bytes).
+Output written on Arbeit.pdf (17 pages, 692744 bytes).
 PDF statistics:
  348 PDF objects out of 1000 (max. 8388607)
  291 compressed objects within 3 object streams
